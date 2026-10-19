@@ -1,0 +1,6 @@
+{
+  "name": "Complaint Triage Agent",
+  "description": "Healthcare complaint triaging system for clinical risk detection, severity assessment, patient safety routing, and human oversight enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
